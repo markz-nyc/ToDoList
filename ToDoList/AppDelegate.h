@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+//this is just test merge 2 , pull request 2
+
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
